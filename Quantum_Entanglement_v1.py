@@ -20,9 +20,9 @@ random.seed(39)
 np.random.seed(39)
 
 FILES = (
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89_loto_2980.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89_loto_plus_1736.csv"),
+    Path("/data/loto7_4716_k89.csv"),
+    Path("/data/loto7_4716_k89_loto_2980.csv"),
+    Path("/data/loto7_4716_k89_loto_plus_1736.csv"),
 )
 
 TITLE = "Quantum Entanglement"
@@ -2370,13 +2370,13 @@ Najveca razlika legalnih marginalnih raspodela: 0.02328518279415781
 ZAVRSNE NEXT KOMBINACIJE
 
 loto7_4716_k89.csv
-NEXT: 1 5 16 17 25 33 39
+NEXT: 1 x 16 y 25 z 39
 
 loto7_4716_k89_loto_2980.csv
-NEXT: 1 5 16 17 25 33 39
+NEXT: 1 x 16 y 25 z 39
 
 loto7_4716_k89_loto_plus_1736.csv
-NEXT: 1 8 15 17 25 33 39
+NEXT: 1 x 15 y 25 z 39
 """
 
 
